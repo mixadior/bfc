@@ -12,9 +12,14 @@ Main goals:
 - `previous` / `next` support
 - flexible API to manage errors or write intermediate logic, e.g. manage not finished forms, etc. 
 
-# Example 
+# Usage
 
-http://feodosian.com/public/screencast_2023-07-16_16-09-07.mp4 
+`go get github.com/mixadior/bfc`
+
+# Video 
+
+https://github.com/mixadior/bfc/assets/197473/61451c84-9e7b-4c2c-98a9-01501188203e
+
 
 # Configuration 
 
